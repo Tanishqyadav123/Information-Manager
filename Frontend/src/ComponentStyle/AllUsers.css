@@ -1,0 +1,13 @@
+.users {
+     display:  flex;
+     align-items: center;
+     justify-content: flex-start;
+     gap: 1.5rem;
+     flex-wrap: wrap;
+}
+.btns{
+     display: flex;
+     align-items: center;
+     justify-content: flex-start;
+     gap: 1rem;
+}
